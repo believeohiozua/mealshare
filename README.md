@@ -76,20 +76,5 @@ The MIT License - Copyright (c) 2022 - Present, Decagon Institute. https://decag
 
 ## Contributors
 
-<table>
-    <tr>
-        <td align="center">
-            <div>
-                <img src="https://avatars.githubusercontent.com/u/80605206?v=4" width="100px;">
-                <br /><sub><b>Ayodele Oluwatosin - Lead</b></sub>
-            </div>
-        </td>
-        <td align="center">
-            <div>
-                <img src="https://avatars1.githubusercontent.com/u/49355114?s=460&u=17218f01b571cbad08912982baab6c31cc8cf004&v=4" width="100px;">
-                <br /><sub><b>Olatunde Sodiq - Lead</b></sub>
-            </div>
-        </td>
-      </tr>
-</table>
+<!-- 
 # mealshare
